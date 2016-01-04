@@ -1,0 +1,21 @@
+[general]
+name=Ellipse
+qgisMinimumVersion=2.0
+description=Create ellipses based on minor and major axis diameter widths and a rotation angle
+version=0.1
+author=Script: Pete Wells (Lutra Consulting); Plugin: Ali Moyle (Ecotricity)
+email=ali.moyle@ecotricity.co.uk
+
+about=Create ellipses/ovals in QGIS (can be used for example to map wind turbine separation distances). Enter minor ellipse axis diameter, major ellipse axis diameter and rotation angle (in degrees) parameters, which will draw the ellipse in the centre of your current map window, to then be moved as you wish.
+
+tracker=https://github.com/User111111111/QGIS_Plugins/issues
+repository=https://github.com/User111111111/QGIS_Plugins
+
+tags=ellipse, oval, turbine, edit, rotation
+
+homepage=https://github.com/User111111111/QGIS_Plugins
+category=Plugins
+icon=icon.png
+deprecated=False
+category=Vector
+changelog=0.1 - First release
